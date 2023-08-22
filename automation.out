@@ -3926,3 +3926,34 @@ remote stacktrace: Backtrace:
 2023-08-22 14:08:887 INFO  WaitHelper:159 - element is visible now
 2023-08-22 14:08:656 INFO  VerificationHelper:26 - element is Displayed..
 2023-08-22 14:08:687 INFO  TestBase:109 - **************LoginWithValidCredentialsFinished***************
+2023-08-22 15:08:62 INFO  TestBase:153 - Initialize Web driver: 414765427
+2023-08-22 15:08:66 INFO  WaitHelper:31 - WaitHelper object created..
+2023-08-22 15:08:66 INFO  WaitHelper:41 - Implicit Wait has been set to: 30
+2023-08-22 15:08:74 INFO  WaitHelper:144 - waiting for page to load for : 30 seconds
+2023-08-22 15:08:89 INFO  WaitHelper:146 - page is loaded
+2023-08-22 15:08:122 INFO  TestBase:86 - **************LoginWithValidCredentialsStarted***************
+2023-08-22 15:08:98 INFO  WaitHelper:31 - WaitHelper object created..
+2023-08-22 15:08:276 INFO  WaitHelper:156 - waiting for :[[FirefoxDriver: firefox on WINDOWS (a41d0077-3999-4662-a6a7-fddcac7e2f4e)] -> name: loginfmt] for :10 seconds
+2023-08-22 15:08:433 INFO  WaitHelper:159 - element is visible now
+2023-08-22 15:08:499 INFO  LoginPage:97 - entering email address....kajol.gupta@beyondkey.com
+2023-08-22 15:08:589 INFO  LoginPage:103 - Clickin on next button
+2023-08-22 15:08:904 INFO  LoginPage:110 - entering password....Beyond@456
+2023-08-22 15:08:946 INFO  LoginPage:117 - clicking on submit button...
+2023-08-22 15:08:413 INFO  LoginPage:124 - entering TOTP....
+2023-08-22 15:08:170 INFO  LoginPage:133 - clicking on veriy button...
+2023-08-22 15:08:433 INFO  LoginPage:141 - clicking on yes button to continue...
+2023-08-22 15:08:395 INFO  LoginPage:144 - User Login successfully...
+2023-08-22 15:08:395 INFO  LoginPage:149 - Wait for the frame to be visible...
+2023-08-22 15:08:440 INFO  WaitHelper:112 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //iframe[@id='AppLandingPage']' for :5 seconds
+2023-08-22 15:08:479 INFO  WaitHelper:115 - frame is available and switched
+2023-08-22 15:08:479 INFO  LoginPage:152 - Select the Right Cause App...
+2023-08-22 15:08:39 INFO  LoginPage:164 - Reloading the page to close the Welcome window...
+2023-08-22 15:08:504 INFO  WaitHelper:156 - waiting for :[[FirefoxDriver: firefox on WINDOWS (a41d0077-3999-4662-a6a7-fddcac7e2f4e)] -> xpath: //span[text()="Right Cause"]] for :5 seconds
+2023-08-22 15:08:545 INFO  WaitHelper:159 - element is visible now
+2023-08-22 15:08:624 INFO  VerificationHelper:26 - element is Displayed..Right Cause
+2023-08-22 15:08:649 INFO  LoginPage:178 - clicking on profile icon button...
+2023-08-22 15:08:918 INFO  LoginPage:186 - clicking on logout button...
+2023-08-22 15:08:930 INFO  WaitHelper:156 - waiting for :[[FirefoxDriver: firefox on WINDOWS (a41d0077-3999-4662-a6a7-fddcac7e2f4e)] -> xpath: //button[text()="Sign out"]] for :10 seconds
+2023-08-22 15:08:969 INFO  WaitHelper:159 - element is visible now
+2023-08-22 15:08:414 INFO  VerificationHelper:26 - element is Displayed..
+2023-08-22 15:08:433 INFO  TestBase:109 - **************LoginWithValidCredentialsFinished***************

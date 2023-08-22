@@ -20,7 +20,7 @@ public class LogInTest extends TestBase {
 
 		loginPage = new LoginPage(driver);
 		loginPage.loginToApplication(ObjectReader.reader.getUserName(), ObjectReader.reader.getPassword());
-		
+		System.out.println("Added");
 		boolean status = loginPage.verifySuccessLogin();
 			if (status) {
 				loginPage.logout();
