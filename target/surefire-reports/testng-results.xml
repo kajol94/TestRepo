@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-13T08:53:23Z" name="Suite" finished-at="2021-06-13T08:53:32Z" duration-ms="9087">
+    <groups>
+    </groups>
+    <test started-at="2021-06-13T08:53:23Z" name="Test" finished-at="2021-06-13T08:53:32Z" duration-ms="9087">
+      <class name="com.jdrf.testScripts.loginPage.LogInTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.jdrf.testScripts.loginPage.LogInTest@539d019]" started-at="2021-06-13T14:23:22Z" name="beforeSuite" finished-at="2021-06-13T14:23:23Z" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.jdrf.testScripts.loginPage.LogInTest@539d019]" started-at="2021-06-13T14:23:23Z" name="beforeTest" finished-at="2021-06-13T14:23:25Z" duration-ms="2660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.jdrf.testScripts.loginPage.LogInTest@539d019]" started-at="2021-06-13T14:23:25Z" name="beforeMethod" finished-at="2021-06-13T14:23:28Z" duration-ms="2644" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.jdrf.testScripts.loginPage.LogInTest.LoginWithInValidCredentials()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="LoginWithInValidCredentials()[pri:1, instance:com.jdrf.testScripts.loginPage.LogInTest@539d019]" started-at="2021-06-13T14:23:28Z" name="LoginWithInValidCredentials" description="Login with Invalid credentials" finished-at="2021-06-13T14:23:29Z" duration-ms="882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInValidCredentials -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.jdrf.testScripts.loginPage.LogInTest@539d019]" started-at="2021-06-13T14:23:29Z" name="afterMethod" finished-at="2021-06-13T14:23:29Z" duration-ms="318" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithInValidCredentials status=SUCCESS method=LogInTest.LoginWithInValidCredentials()[pri:1, instance:com.jdrf.testScripts.loginPage.LogInTest@539d019] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.jdrf.testScripts.loginPage.LogInTest@539d019]" started-at="2021-06-13T14:23:29Z" name="beforeMethod" finished-at="2021-06-13T14:23:30Z" duration-ms="553" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.jdrf.testScripts.loginPage.LogInTest.LoginWithBlankCredentials()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="LoginWithBlankCredentials()[pri:2, instance:com.jdrf.testScripts.loginPage.LogInTest@539d019]" started-at="2021-06-13T14:23:30Z" name="LoginWithBlankCredentials" description="Login with blank credentials" finished-at="2021-06-13T14:23:31Z" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithBlankCredentials -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.jdrf.testScripts.loginPage.LogInTest@539d019]" started-at="2021-06-13T14:23:31Z" name="afterMethod" finished-at="2021-06-13T14:23:31Z" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithBlankCredentials status=SUCCESS method=LogInTest.LoginWithBlankCredentials()[pri:2, instance:com.jdrf.testScripts.loginPage.LogInTest@539d019] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.jdrf.testScripts.loginPage.LogInTest@539d019]" started-at="2021-06-13T14:23:31Z" name="afterTest" finished-at="2021-06-13T14:23:32Z" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.jdrf.testScripts.loginPage.LogInTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

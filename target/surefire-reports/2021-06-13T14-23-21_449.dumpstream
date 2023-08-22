@@ -1,0 +1,19 @@
+# Created at 2021-06-13T14:23:21.777
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Automation\workspace\JDRF_NPSP\JDRF_NPSP\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
+# Created at 2021-06-13T14:23:22.311
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2021-06-13T14:23:22.312
+WARNING: Illegal reflective access by org.testng.xml.XMLParser (file:/C:/Users/rishabh.jain/.m2/repository/org/testng/testng/6.10/testng-6.10.jar) to constructor com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl()
+
+# Created at 2021-06-13T14:23:22.313
+WARNING: Please consider reporting this to the maintainers of org.testng.xml.XMLParser
+
+# Created at 2021-06-13T14:23:22.316
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2021-06-13T14:23:22.318
+WARNING: All illegal access operations will be denied in a future release
+
